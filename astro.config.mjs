@@ -7,7 +7,7 @@ import { defineConfig } from "astro/config";
 
 export default defineConfig({
 	// change the 'site' value to your site's domain
-	site: "https://nayasinghania.com",
+	site: "https://RobertGarza85.github.io",
 
 	image: {
 		domains: ["raw.githubusercontent.com"],
